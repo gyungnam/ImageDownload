@@ -9,12 +9,6 @@ import UIKit
 
 class ViewController: UIViewController {
     // MARK: IBOutlets
-    /*@IBOutlet var load_1: UIButton!
-    @IBOutlet var load_2: UIButton!
-    @IBOutlet var load_3: UIButton!
-    @IBOutlet var load_4: UIButton!
-    @IBOutlet var load_all: UIButton!
-    */
     @IBOutlet var imageView_1: UIImageView!
     @IBOutlet var imageView_2: UIImageView!
     @IBOutlet var imageView_3: UIImageView!
